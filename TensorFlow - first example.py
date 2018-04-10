@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# # A first example of using TensorFlow
+# # A first example of using TensorFlow by MK
 
 # First we need to import Tensorflow. 
 # Make sure it is installed (with "pip -install tensorflow") 
